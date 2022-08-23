@@ -28,7 +28,7 @@ p {
     box-sizing: border-box;
     width: 450px;
     background-color: white;
-    margin: 50px auto 0;
+    margin: 100px auto 0;
     border-radius: 20px;
     overflow: hidden;
     display: flex;
@@ -134,6 +134,7 @@ button {
     .entire-page {
     box-sizing: border-box;
     width: 330px;
+    margin: 50px auto 0;
     }
 
     .entire-page img {
