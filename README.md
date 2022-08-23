@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live-Site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live-Site URL here](https://eby-coder.github.io/beautiful-blue/)
 
 ## My process
 
